@@ -1,6 +1,6 @@
 # python300
 
-##python300_1
+##python300_1 輸入與輸出
 
 ```
 #!/usr/bin/env python
@@ -33,6 +33,6 @@ print("The area for the circle of radius", radius, "is", area)
 
 ##python300_1.1
 
-##python300_2
+##python300_2 資料型態
 
 ##python300_3
